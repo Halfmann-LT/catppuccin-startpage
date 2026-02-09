@@ -14,7 +14,7 @@ const default_configuration = {
     scale: "C",
   },
   clock: {
-    format: "h:i a d b",
+    format: "h:i p",
     locale: "Europe/London",
     icon_color: palette.maroon,
   },
